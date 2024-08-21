@@ -8,5 +8,5 @@ SEW | Linting and Debugging vue.js
 
 
 ## Skill(s)
--     [Debugging vue.js](https://my.skilldisplay.eu/en/skill/2995/0)
--     [Linting vue.js](https://my.skilldisplay.eu/en/skill/2997/0)  
+- [Debugging vue.js](https://my.skilldisplay.eu/en/skill/2995/0)
+- [Linting vue.js](https://my.skilldisplay.eu/en/skill/2997/0)  
